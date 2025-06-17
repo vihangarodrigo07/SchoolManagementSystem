@@ -1,0 +1,63 @@
+D:\NIBM\crysralrep\crysralrep\bin\Debug\crysralrep.exe.config
+D:\NIBM\crysralrep\crysralrep\bin\Debug\crysralrep.exe
+D:\NIBM\crysralrep\crysralrep\bin\Debug\crysralrep.pdb
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.Shared.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\NIBM\crysralrep\crysralrep\bin\Debug\stdole.dll
+D:\NIBM\crysralrep\crysralrep\obj\Debug\crysralrep.csproj.AssemblyReference.cache
+D:\NIBM\crysralrep\crysralrep\obj\Debug\crysralrep.Properties.Resources.resources
+D:\NIBM\crysralrep\crysralrep\obj\Debug\crysralrep.csproj.GenerateResource.cache
+D:\NIBM\crysralrep\crysralrep\obj\Debug\crysralrep.csproj.CoreCompileInputs.cache
+D:\NIBM\crysralrep\crysralrep\obj\Debug\crysralrep.csproj.CopyComplete
+D:\NIBM\crysralrep\crysralrep\obj\Debug\crysralrep.exe
+D:\NIBM\crysralrep\crysralrep\obj\Debug\crysralrep.pdb
+D:\NIBM\crysralrep\crysralrep\obj\Debug\crysralrep.FrmCourseRep.resources
+D:\Project backup\crysralrep\crysralrep\bin\Debug\crysralrep.exe.config
+D:\Project backup\crysralrep\crysralrep\bin\Debug\crysralrep.exe
+D:\Project backup\crysralrep\crysralrep\bin\Debug\crysralrep.pdb
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.Shared.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Project backup\crysralrep\crysralrep\bin\Debug\stdole.dll
+D:\Project backup\crysralrep\crysralrep\obj\Debug\crysralrep.csproj.AssemblyReference.cache
+D:\Project backup\crysralrep\crysralrep\obj\Debug\crysralrep.FrmCourseRep.resources
+D:\Project backup\crysralrep\crysralrep\obj\Debug\crysralrep.Properties.Resources.resources
+D:\Project backup\crysralrep\crysralrep\obj\Debug\crysralrep.csproj.GenerateResource.cache
+D:\Project backup\crysralrep\crysralrep\obj\Debug\crysralrep.csproj.CoreCompileInputs.cache
+D:\Project backup\crysralrep\crysralrep\obj\Debug\crysralrep.csproj.CopyComplete
+D:\Project backup\crysralrep\crysralrep\obj\Debug\crysralrep.exe
+D:\Project backup\crysralrep\crysralrep\obj\Debug\crysralrep.pdb
+D:\Project backup\crysralrep\crysralrep\obj\Debug\crysralrep.FrmHome.resources
+D:\Project backup\crysralrep\crysralrep\obj\Debug\Final_Project.FrmLogin.resources
+D:\Project backup\crysralrep\crysralrep\obj\Debug\Final_Project.FrmCourses.resources
+D:\Project backup\crysralrep\crysralrep\obj\Debug\crysralrep.FrmStudent.resources
+D:\Project backup\crysralrep\crysralrep\obj\Debug\crysralrep.FrmLecturers.resources
+D:\Project backup\crysralrep\crysralrep\obj\Debug\crysralrep.FrmViewMarks.resources
+D:\Project backup\crysralrep\crysralrep\obj\Debug\crysralrep.FrmViewer.resources
